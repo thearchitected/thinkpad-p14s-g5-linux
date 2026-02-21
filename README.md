@@ -1,3 +1,5 @@
+This fork includes a proper fix for installing P14s Gen 5 presets (original repo installs gen 4).
+
 <p align="center">
     <img src="images/thonkpad.gif" />
 </p>
