@@ -21,7 +21,7 @@ The default speaker sound is terrible, so the repository includes [EasyEffects](
 To install the presets, just run the following command:
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/kikislater/thinkpad-p14s-g5-linux/master/install_easyeffects.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/_architected/thinkpad-p14s-g5-linux/master/install_easyeffects.sh)"
 ```
 
 Then, to use it, open EasyEffects, and select one of the "ThinkPad P14s G5" presets in the "Presets" menu in the upper-left corner of the application window.
